@@ -1,0 +1,15 @@
+#project name
+student management system
+    #files
+    1.connection.py
+           #internal data
+           1.connecting python to MySQL database
+    2.main.py
+           #crud data
+           1.adding data code
+           2.read data code from table
+           3.update data code from table
+           4.delete data code from table
+    3.interface.py
+           #connecting with main.py
+           1.giving options to user to perform crud work
